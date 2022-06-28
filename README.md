@@ -1,3 +1,3 @@
 # gitlearning
 
-Hi first post on github!
+Hey this is Quentin, and this is my first post on github!
